@@ -16,7 +16,7 @@ body {
 a { font-weight: bold; }
 a:link { color: #931420; }
 a:hover, a:focus { color: blue; }
-a:visited { color: #f2972e;}
+a:visited { color: #fffded;}
 ul { line-height: 1.5; }
 li, p { font-size: 95%; }
 em { font-weight: bold; }
