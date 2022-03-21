@@ -10,7 +10,7 @@ body {
 	border: solid;
 	border-width: 3px;
 	border-color: #931420;
-	align-self: center;
+	text-align: center;
 	background-color: #f2972e;
 }
 
@@ -43,7 +43,7 @@ header h3 {
 
 /* the styles for the main content */
 main { clear: left; }
-main h1 { font-size: 170%; }
+main h1 { font-size: 170%; border-top: solid; border-bottom: solid; border-width: 3px; border-color: #931420;}
 main h2 { font-size: 130%; }
 
 main p.indent { text-indent: 2em; }
@@ -53,4 +53,7 @@ main a.date_passed { color: gray; }
 footer p {
 	font-size: 80%;
 	text-align: right;
+	border-bottom: solid;
+	border-width: 3px;
+	border-color: #931420;
 }
