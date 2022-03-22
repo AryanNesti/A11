@@ -5,11 +5,9 @@ html{
 body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 100%;
-	max-width: 600px;
-	margin: 0, auto;
-	border: solid;
-	border-width: 3px;
-	border-color: #931420;
+	width: 600px;
+	margin: 0 auto;
+	border: solid 3px #931420;
 	background-color: #fffded;
 }
 
